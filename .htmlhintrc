@@ -1,0 +1,11 @@
+{
+  "attr-lowercase": true,
+  "doctype-html5": true,
+  "head-script-disabled": false,
+  "id-unique": true,
+  "img-alt-require": true,
+  "style-disabled": true,
+  "tag-self-close": true,
+  "tag-pair": true,
+  "tagname-lowercase": true
+}

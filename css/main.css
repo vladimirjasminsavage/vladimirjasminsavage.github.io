@@ -1,3 +1,15 @@
-h1 {
-  
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.jumbotron{
+background:url(https://s-media-cache-ak0.pinimg.com/originals/c3/14/2a/c3142a2134431b73127c702ef220603b.jpg)
+}
+.jumbotron p {
+  color: white;
+  font-weight: bold;
+  text-shadow:2px 2px black;
+
 }
